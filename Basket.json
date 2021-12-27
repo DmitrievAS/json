@@ -1,4 +1,7 @@
 [
+  "amount": 368,
+  "countGoods": 7,
+  "contents: [  
     {
     "id": "2",
     "title": "Magnesium Citrate",
@@ -23,4 +26,5 @@
     "imgName": "v433-09",
 "quantity": "4"
   }
+]
 ]  
