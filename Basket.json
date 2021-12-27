@@ -1,14 +1,14 @@
 {
   "amount": 368,
   "countGoods": 7,
-  "contents: [  
+  "contents": [  
     {
     "id": 2,
     "title": "Magnesium Citrate",
     "price": 30,
     "description": "Магний помогает преобразовывать углеводы, белки и жиры в энергию",
     "imgName": "v433-09",
-"quantity": 1	
+    "quantity": 1	
   },
   {
     "id": 3,
@@ -16,7 +16,7 @@
     "price": 35,
     "description": "Способствует расщеплению окисленных жиров и необходим для углеводного обмена",
     "imgName": "vtc1_31", 
-"quantity": 2
+    "quantity": 2
   },
   {
     "id": 6,
@@ -24,7 +24,7 @@
     "price": 67,
     "description": "Способствует расщеплению окисленных жиров и необходим для углеводного обмена",
     "imgName": "v433-09",
-"quantity": 4
+    "quantity": 4
   }
 ]
 }
